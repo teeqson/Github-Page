@@ -19,11 +19,11 @@
  
  🔭 I’m currently working on **Python Projects**
  
- 🌱 I’m currently learning ** Digital Business & AI**
+ 🌱 I’m currently learning **Digital Business & AI**
 
 💬 Ask me about **Python**
 
-⚡ Fun fact: **Honey never spoils; archaeologists found edible honey in tombs. 🍯**
+⚡ Fun fact: **Octopuses have three hearts and blue blood!**
 
  </div>
 
